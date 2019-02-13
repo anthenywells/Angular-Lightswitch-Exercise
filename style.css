@@ -1,0 +1,19 @@
+body{
+  height:100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section {
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lightOn {
+  background-color: yellow;
+}
